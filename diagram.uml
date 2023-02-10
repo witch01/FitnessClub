@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-462.8580150976909" y="-208.4811198860225">com.example.fitnessclub.models.Services</node>
+    <node x="145.03770482224024" y="1183.5188801139775">com.example.fitnessclub.models.Visit</node>
+    <node x="50.037704822240244" y="562.5188801139775">com.example.fitnessclub.controller.TicketController</node>
+    <node x="-21.462295177759756" y="36.5188801139775">com.example.fitnessclub.controller.Plain_trainingController</node>
+    <node x="428.53770482224024" y="961.5188801139775">com.example.fitnessclub.controller.Customer_preferencesController</node>
+    <node x="103.48488215696165" y="281.99459564938365">com.example.fitnessclub.controller.ClientController</node>
+    <node x="446.03770482224024" y="529.5188801139775">com.example.fitnessclub.controller.City_servicesController</node>
+    <node x="-277.96229517775976" y="518.5188801139775">com.example.fitnessclub.models.Cheque</node>
+    <node x="498.53770482224024" y="1217.5188801139775">com.example.fitnessclub.models.Post</node>
+    <node x="-270.96229517775976" y="803.5188801139775">com.example.fitnessclub.models.Ticket</node>
+    <node x="887.0377048222401" y="719.5188801139775">com.example.fitnessclub.models.City_services</node>
+    <node x="-26.962295177759756" y="961.5188801139775">com.example.fitnessclub.controller.EmployeeController</node>
+    <node x="867.5377048222401" y="562.5188801139775">com.example.fitnessclub.controller.ServicesController</node>
+    <node x="857.0377048222401" y="314.99459564938365">com.example.fitnessclub.controller.Report_trainingController</node>
+    <node x="877.03770482224" y="991.5188801139775">com.example.fitnessclub.models.Report_training</node>
+    <node x="-245.96229517775976" y="281.99459564938365">com.example.fitnessclub.controller.PostController</node>
+    <node x="425.03770482224024" y="763.5188801139775">com.example.fitnessclub.controller.Work_sheduleController</node>
+    <node x="914.5377048222401" y="-306.4811198860225">com.example.fitnessclub.models.Employee</node>
+    <node x="528.0377048222402" y="-274.4811198860225">com.example.fitnessclub.models.Plain_training</node>
+    <node x="-28.962295177759756" y="763.5188801139775">com.example.fitnessclub.controller.Recomended_servicesController</node>
+    <node x="153.48488215696165" y="-164.4811198860225">com.example.fitnessclub.models.Customer_preferences</node>
+    <node x="-98.5" y="-164.4811198860225">com.example.fitnessclub.models.Recomended_services</node>
+    <node x="462.28419197103494" y="-3.5081186711609007">com.example.fitnessclub.models.Client</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="0.38953513513513516" showDependencies="false" x="226.03770482224013" y="1265.5188801139775" />
+  <SelectedNodes>
+    <node>com.example.fitnessclub.models.Visit</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

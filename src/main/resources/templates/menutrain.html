@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Упрвление тренировками</title>
+</head>
+<body style="background:antiquewhite">
+<div th:insert="hello"></div>
+<br><br><br>
+<table style="width:100%; height:100%;">
+  <tr>
+    <td style="text-align:center; vertical-align:top;">
+      <form th:action="${'/reporttraining/view'}" method="get">
+        <button style="background: #FFC0CB; border-color: aliceblue; border-radius: 60px; height: 45px; width: 500px; margin-bottom: 20px;" type="submit" class="btn btn-del"><em><strong>Отчеты о тренировках</strong></em></button>
+      </form>
+      <form th:action="${'/plaintraining/view'}" method="get">
+        <button style="background: #FFC0CB; border-color: aliceblue; border-radius: 60px; height: 45px; width: 500px; margin-bottom: 20px;" type="submit" class="btn btn-del"><em><strong>Планы тренировок</strong></em></button>
+      </form>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
